@@ -1,4 +1,4 @@
 # mymovieproject
 Tutorial Purposes
 
-# reinventing myself
+# Try to invest
